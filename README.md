@@ -1,1 +1,1 @@
-# trybe-exercicios
+Meu Diretorio de exercicios da trybe
