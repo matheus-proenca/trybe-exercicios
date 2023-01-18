@@ -1,0 +1,30 @@
+div:hover {
+  width: 10em;
+  border: 1px dashed firebrick;
+  border-radius: 20px;
+}
+
+#primaria {
+    color:red ;
+}
+
+#secundaria {
+    color: orange;
+}
+
+#complementar{
+   color: blueviolet; 
+   font-size: 20px;
+}
+
+#escuras{
+    color: gray;
+}
+
+#claras{
+    color: yellow;
+}
+
+h3 {
+    font-style: italic;
+}
