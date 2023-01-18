@@ -1,0 +1,55 @@
+.back{
+    background-color: yellow;
+}
+
+.impar{
+    color: green;
+}
+
+.par {
+    text-transform: uppercase;
+}
+
+.main h1,h2,h3{
+    color: red;
+}
+
+.italico {
+    font-size: 40px;
+    border-style: double;
+    border: 1px solid black;
+    font-style: italic;
+}
+
+.listas{
+    font-size: 20px;
+    font-style: italic;
+}
+
+.azul{
+    color: blue;
+}
+.rosa{
+    background-color: pink;
+}
+
+.trybe:hover{
+    background-color: green;
+    color: white;
+}
+.stack:hover{
+    background-color: orange;
+    color: white;
+}
+.w3s:hover{
+    background-color: greenyellow;
+    color: white;
+}
+.mdn:hover{
+    background-color: black;
+    color: white;
+}
+.docs:hover {
+    background-color: yellow;
+    color: white;
+}
